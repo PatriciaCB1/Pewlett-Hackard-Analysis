@@ -21,6 +21,8 @@ We were tasked with undertaking additional analysis as follows:
 ## Results:
 
 ### Deliverable One Findings
+
+![Count_by_title_to_retire]()
 -
 -
 -
