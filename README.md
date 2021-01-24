@@ -32,9 +32,10 @@ We were tasked with undertaking additional analysis as follows:
 - Engineers have the highest total for those eligible for retirement - Total:  45,397 (includes senior engineers, engineers, assistant engineers).  With such a high level of engineers retiring this could slow plans for innovation. PH will want to ensure roles that become available are filled quickly with high quality candidates. 
 ### Deliverable Two Findings
 
-![Mentorship_Eligibility_List](https://github.com/PatriciaCB1/Pewlett-Hackard-Analysis/blob/main/Count_by_title.png)
+![Mentorship_Eligibility_List](https://github.com/PatriciaCB1/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility.png)
 
-![Mentorship_Eligibility_By_Title](https://github.com/PatriciaCB1/Pewlett-Hackard-Analysis/blob/main/Count_by_title.png)
+![Mentorship_Eligibility_By_Title](https://github.com/PatriciaCB1/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility_by_title_counts.png)
+
 - A total of 1549 employees eligible for retirement are also eligible for the mentorship program.  This represents 1.7% of employees eligible for retirement.
 - 
 -
